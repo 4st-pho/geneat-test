@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724795910512",
+    "project_id": "geneat-teat",
+    "storage_bucket": "geneat-teat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724795910512:android:467842747e0180e3a507b5",
+        "android_client_info": {
+          "package_name": "com.example.firebase_authentication_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724795910512-5bk3spgu40cjvcbg13k1kmgmc0u51ctm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_DHZsr8RxVXl6ytO12qpR_9FXDpLGTK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724795910512-5bk3spgu40cjvcbg13k1kmgmc0u51ctm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
